@@ -1,6 +1,6 @@
 CUSTOMER TRENDS DATA ANALYSIS – END-TO-END RETAIL INSIGHTS USING SQL, PYTHON & POWER BI
 
-PROJECT DESCRIPTION
+📌PROJECT DESCRIPTION
 
 ·This project is a full end-to-end data analytics workflow, simulating a corporate-grade analysis pipeline.
 
@@ -8,7 +8,7 @@ PROJECT DESCRIPTION
 
 ·The aim is to model how customers behave, segment them based on patterns, and provide clear insights that a business can use for strategic decisions (e.g. marketing, retention, loyalty, stock planning).
 
-TOOLS & LANGUAGES USED
+📌TOOLS & LANGUAGES USED
 
 1) Python — for data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, and data manipulation.
    
@@ -16,7 +16,7 @@ TOOLS & LANGUAGES USED
    
 3) Power BI — to create interactive dashboards and visual reports to display insights, trends, segmentation, and key performance indicators (KPIs).
 
-WORKFLOW & FEATURES
+📌WORKFLOW & FEATURES
 
 ·Data ingestion and cleaning: load raw transactional data (CSV / dataset) and clean/transform it using Python (e.g. handling missing values, standardizing formats, feature creation).
 
@@ -32,7 +32,7 @@ WORKFLOW & FEATURES
 
 ·Insight generation: produce business-relevant insights (e.g. identifying high-value customer segments, trends in purchase behaviour, recommendations for retention or marketing strategies).
 
-POTENTIAL USES (PROFESSIONAL / BUSINESS)
+📌POTENTIAL USES (PROFESSIONAL / BUSINESS)
 
 ·As a portfolio project to showcase end-to-end data analytics skills — demonstrates ability to handle raw data, clean, analyze, and present results. Good for interviews or resumes for data-analyst / business-intelligence roles.
 
@@ -42,7 +42,7 @@ POTENTIAL USES (PROFESSIONAL / BUSINESS)
 
 ·As training or internal analytics tool: you can adapt it to real business datasets to replicate analysis and dashboarding for operations, sales tracking, marketing analytics, or churn analysis.
 
-WHY THIS PROJECT STANDS OUT
+📌WHY THIS PROJECT STANDS OUT
 
 ·Covers complete data analytics lifecycle: from raw data → cleaning → database → analysis → visualization → insights — replicating what is done in real business environments.
 
