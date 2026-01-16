@@ -47,11 +47,11 @@ This project can be used to:
 - Extend analysis with demographic or external data (e.g. region, marketing campaigns) to enrich insights  
 - Automate data ingestion and dashboard updates for ongoing use in a production-like environment  
 - Share interactive dashboards (e.g. via Power BI Service) or export reports for stakeholders  
-## AUTHOR
+## AUTHORS
 This project was developed solely by me, demonstrating my personal skills and initiative in data analytics.
 
 - [@AMALJITH71](https://github.com/AMALJITH71)
-
+-  [@ABHISHEK-M00](https://github.com/ABHISHEK-M00)
 
 
 
